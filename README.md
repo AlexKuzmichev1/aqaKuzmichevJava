@@ -1,1 +1,3 @@
-# aqaKuzmichevJava
+# Alexander Kuzmichev
+# AQA Trainee
+# Java
